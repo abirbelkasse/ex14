@@ -1,0 +1,12 @@
+.container{
+    background: rgb(139, 109, 39);
+    text-align: center;
+}
+.c1{
+    background: rgb(139, 84, 39); 
+    padding: 20px;
+    box-shadow: 10px 10px black;
+}
+.btn{
+    width: 200px;
+}
